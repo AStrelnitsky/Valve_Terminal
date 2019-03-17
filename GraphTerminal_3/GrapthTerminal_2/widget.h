@@ -57,7 +57,7 @@
 /*-------------CONNECTION SETTINGS------------*/
 
 #define RX_TIMEOUT 5
-#define TX_TIMEOUT 20
+#define TX_TIMEOUT 30
 #define DEFAULT_BAUDERATE 115200
 /*--------------------------------------------*/
 /*------------INCOMING MESSAGE STRUCTURE-------*/
