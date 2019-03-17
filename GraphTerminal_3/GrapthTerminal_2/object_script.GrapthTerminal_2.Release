@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\plot.o
+./release\motor_control_unit.o
+./release\integral.o
+./release\aperiodic_unit.o
+./release\moc_widget.o
+./release\moc_plot.o
+./release\moc_motor_control_unit.o
+./release\moc_integral.o
+./release\moc_aperiodic_unit.o
+);
